@@ -3,3 +3,6 @@ ai
 LLM
 !gai
 人工智能
+huggingface
+github
+producthunt
